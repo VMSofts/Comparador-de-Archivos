@@ -36,4 +36,4 @@ MIT. Consulta el archivo [LICENSE](LICENSE).
 
 ---
 
-Creado por VMSofts
+Creado por Ing. Víctor Maldonado — VMSofts

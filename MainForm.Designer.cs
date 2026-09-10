@@ -151,7 +151,7 @@ namespace ComparadorArchivos
             lblTopInfo.Name = "lblTopInfo";
             lblTopInfo.Size = new System.Drawing.Size(263, 14);
             lblTopInfo.TabIndex = 2;
-            lblTopInfo.Text = "Creado por VMSofts";
+            lblTopInfo.Text = "Creado por Ing. Víctor Maldonado — VMSofts";
             lblTopInfo.Click += lblTopInfo_Click;
             // 
             // chkPreventSleep
@@ -696,7 +696,7 @@ namespace ComparadorArchivos
             lblHeaderInfo.Name = "lblHeaderInfo";
             lblHeaderInfo.Size = new System.Drawing.Size(206, 13);
             lblHeaderInfo.TabIndex = 1;
-            lblHeaderInfo.Text = "Creado por VMSofts";
+            lblHeaderInfo.Text = "Creado por Ing. Víctor Maldonado — VMSofts";
             // 
             // MainForm
             // 
